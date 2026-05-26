@@ -1,0 +1,1 @@
+The uploaded documents containing custom text, user files, knowledge bases, reports, manuals, or specific reference materials uploaded by the user during this session. Use this tool to answer any questions related to the details, facts, figures, and contents of these uploaded documents.
